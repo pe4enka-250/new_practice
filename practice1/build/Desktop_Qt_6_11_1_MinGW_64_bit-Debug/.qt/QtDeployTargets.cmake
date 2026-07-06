@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_practice1_FILE D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/practice1.exe)
+set(__QT_DEPLOY_TARGET_practice1_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_practice1_RUNTIME_DLLS D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Widgets.dll;D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Gui.dll;D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_TestApp_FILE D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/TestApp.exe)
+set(__QT_DEPLOY_TARGET_TestApp_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_TestApp_RUNTIME_DLLS D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Widgets.dll;D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Test.dll;D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Gui.dll;D:/Programm/Qt/6.11.1/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,8 @@
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/practice1.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/TestApp.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/practice1_autogen_timestamp_deps.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/practice1_autogen.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/TestApp_autogen_timestamp_deps.dir
+D:/Project_Qt/practice1/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/TestApp_autogen.dir

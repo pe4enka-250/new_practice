@@ -1,0 +1,3 @@
+D:\Programm\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\practice1.dir/objects.a
+D:\Programm\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\practice1.dir/objects.a @CMakeFiles\practice1.dir\objects1.rsp
+D:\Programm\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\practice1.dir/objects.a -Wl,--no-whole-archive -o practice1.exe -Wl,--out-implib,libpractice1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\practice1.dir\linkLibs.rsp

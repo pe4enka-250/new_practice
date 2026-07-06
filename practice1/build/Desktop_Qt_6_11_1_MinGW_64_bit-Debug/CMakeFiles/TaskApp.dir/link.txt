@@ -1,0 +1,3 @@
+D:\Programm\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\TaskApp.dir/objects.a
+D:\Programm\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\TaskApp.dir/objects.a @CMakeFiles\TaskApp.dir\objects1.rsp
+D:\Programm\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\TaskApp.dir/objects.a -Wl,--no-whole-archive -o TaskApp.exe -Wl,--out-implib,libTaskApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TaskApp.dir\linkLibs.rsp
