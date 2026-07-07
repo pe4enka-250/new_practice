@@ -19,37 +19,42 @@ class MainWindow : public QMainWindow {
     Q_OBJECT
 
 public:
-    MainWindow(QWidget *parent = nullptr);
+    MainWindow(QWidget* parent = nullptr);
     ~MainWindow() {}
 
+    // Метод кастомной сортировки пузырьком по убыванию
     void bubbleSortDescending(int n);
+
+    // Геттер и сеттер для работы механизма юнит-тестирования
     QVector<Student> getStudents() const { return students; }
     void setStudents(const QVector<Student>& newStudents) { students = newStudents; }
 
 protected:
-    void keyPressEvent(QKeyEvent *event) override;
+    // П.3: Переопределение обработчика нажатий клавиш клавиатуры
+    void keyPressEvent(QKeyEvent* event) override;
 
 private slots:
-    void addStudent();
-    void removeSelected();
-    void sortStandard();
-    void sortBubbleVariant();
-    void showContextMenu(const QPoint &pos);
+    void addStudent();       // Слот добавления записи
+    void removeSelected();   // Слот удаления выбранной записи
+    void sortStandard();     // Слот встроенной сортировки списка
+    void sortBubbleVariant(); // Слот вызова пузырьковой сортировки для N элементов
+    void showContextMenu(const QPoint& pos); // Слот контекстного меню
 
 private:
-    void updateWidgets();
+    void updateWidgets();    // Метод синхронизации данных во всех виджетах
 
-    QVector<Student> students;
+    QVector<Student> students; // Контейнер для хранения динамического массива структур
 
-    QLineEdit *sizeInput;
-    QLineEdit *surnameInput;
-    QSpinBox *courseInput;
-    QSpinBox *phoneInput;
+    // Элементы графического интерфейса
+    QLineEdit* sizeInput;
+    QLineEdit* surnameInput;
+    QSpinBox* courseInput;
+    QSpinBox* phoneInput;
 
-    QTableWidget *tableWidget;
-    QListWidget *listWidget;
-    QComboBox *comboBox;
-    QLabel *imageLabel;
+    QTableWidget* tableWidget;
+    QListWidget* listWidget;
+    QComboBox* comboBox;
+    QLabel* imageLabel;
 };
 
 #endif // MAINWINDOW_H

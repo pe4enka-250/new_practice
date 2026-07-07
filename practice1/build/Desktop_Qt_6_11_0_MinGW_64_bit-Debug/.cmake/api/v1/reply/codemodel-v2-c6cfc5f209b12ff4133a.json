@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TestApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestApp-Debug-40bdea53d11c2c20b28f.json",
+					"name" : "TestApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestApp_autogen-Debug-4c6051ca1a03e2300675.json",
+					"name" : "TestApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestApp_autogen_timestamp_deps-Debug-dcd0f63fada4f3f07072.json",
+					"name" : "TestApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1-Debug-19c5f4a14ba2f96cb1b4.json",
+					"name" : "practice1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1_autogen-Debug-1e83bb39e1ebb49c3880.json",
+					"name" : "practice1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice1_autogen_timestamp_deps-Debug-02e1f042413be032025d.json",
+					"name" : "practice1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Project_QT/Project_qt/practice1/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "D:/Project_QT/Project_qt/practice1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

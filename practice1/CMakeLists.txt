@@ -11,6 +11,7 @@ find_package(Qt6 COMPONENTS Widgets Test REQUIRED)
 add_executable(practice1 main.cpp mainwindow.cpp)
 target_link_libraries(practice1 PRIVATE Qt6::Widgets)
 
-add_executable(TestApp test_main.cpp mainwindow.cpp)
+add_executable(TestApp test_main.cpp mainwindow.cpp
+)
 
 target_link_libraries(TestApp PRIVATE Qt6::Widgets Qt6::Test)
