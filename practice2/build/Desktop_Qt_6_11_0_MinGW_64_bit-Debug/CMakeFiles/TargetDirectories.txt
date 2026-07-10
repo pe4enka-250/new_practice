@@ -1,0 +1,8 @@
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/practice2.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/puzzle_tests.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/practice2_autogen_timestamp_deps.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/practice2_autogen.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/puzzle_tests_autogen_timestamp_deps.dir
+D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/puzzle_tests_autogen.dir

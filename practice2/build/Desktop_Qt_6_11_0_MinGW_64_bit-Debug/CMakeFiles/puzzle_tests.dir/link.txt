@@ -1,0 +1,3 @@
+D:\Project_QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\puzzle_tests.dir/objects.a
+D:\Project_QT\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\puzzle_tests.dir/objects.a @CMakeFiles\puzzle_tests.dir\objects1.rsp
+D:\Project_QT\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\puzzle_tests.dir/objects.a -Wl,--no-whole-archive -o puzzle_tests.exe -Wl,--out-implib,libpuzzle_tests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\puzzle_tests.dir\linkLibs.rsp

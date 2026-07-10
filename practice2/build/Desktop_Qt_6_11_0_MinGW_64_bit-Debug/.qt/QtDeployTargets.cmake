@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_practice2_FILE D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/practice2.exe)
+set(__QT_DEPLOY_TARGET_practice2_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_practice2_RUNTIME_DLLS D:/Project_QT/6.11.0/mingw_64/bin/Qt6Widgets.dll;D:/Project_QT/6.11.0/mingw_64/bin/Qt6Gui.dll;D:/Project_QT/6.11.0/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_puzzle_tests_FILE D:/Project_QT/Project_qt/practice2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/puzzle_tests.exe)
+set(__QT_DEPLOY_TARGET_puzzle_tests_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_puzzle_tests_RUNTIME_DLLS D:/Project_QT/6.11.0/mingw_64/bin/Qt6Widgets.dll;D:/Project_QT/6.11.0/mingw_64/bin/Qt6Test.dll;D:/Project_QT/6.11.0/mingw_64/bin/Qt6Gui.dll;D:/Project_QT/6.11.0/mingw_64/bin/Qt6Core.dll)
